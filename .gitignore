@@ -1,0 +1,34 @@
+# .gitignore file
+
+# Download locations
+download/
+dl/
+
+# Debug, temp, similar
+debug/
+dbg/
+temp/
+tmp/
+memory/
+
+# Private
+private/
+secret/
+config/
+cfg/
+git_ignored/
+test_shell_scripts/
+
+# Junk files
+*.~py
+*.pyc
+
+# Private file patterns
+*_config.py
+*.cfg
+
+# Output files:
+*.sh
+
+# Specific files
+

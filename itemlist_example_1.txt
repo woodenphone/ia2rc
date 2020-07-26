@@ -1,0 +1,18 @@
+## itemlist_example_1.txt
+## Example itemlist file.
+# Lines that do not start with hash, newline or carriage-return
+# ['#', '\n', '\r']
+# are assumed to be InternetArchive unique item names
+# Preceding and trailing whitespace will be stripped
+## automatically when reading each line.
+
+# Some nasa thing
+nasa
+
+
+# Another from the docs:
+goodytwoshoes00newyiala
+
+# The following item will be ignored, as the line begins with a "#" symbol.
+# goodytwoshoes00newyiala
+
